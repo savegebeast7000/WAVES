@@ -1,0 +1,2 @@
+# WAVES
+music bot
